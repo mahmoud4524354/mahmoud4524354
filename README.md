@@ -19,7 +19,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 I’m a student at [Faculty of Computers & Informatics](https://www.eelu.edu.eg/), [South Valley University](https://www.svu.edu.eg/ar/).
+- 🎓 Information Technology undergraduate (2021–2025) at Egyptian E-Learning University (EELU), South Valley Branch.
 - 💻 Passionate about solving problems through software.
 - 🔭 Currently learning `Information Technology` & `Software Engineering`.
 - 🧠 Always eager to learn new things.
