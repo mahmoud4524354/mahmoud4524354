@@ -19,11 +19,11 @@
 
 ### 👨‍🎓 About Me
 
--🎓 Information Technology undergraduate (2021–2025) at Egyptian E-Learning University (EELU), South Valley Branch.
--💻 Backend Developer skilled in PHP, Laravel, and MySQL.
--🔭 Experienced in building and maintaining web applications, from database design to API development and system integration.
--🧠 Focused on problem-solving, performance optimization, and writing clean, maintainable code that scales.
--🚀 Always eager to learn new technologies and contribute to impactful projects.
+- 🎓 Information Technology undergraduate (2021–2025) at Egyptian E-Learning University (EELU), South Valley Branch.
+- 💻 Backend Developer skilled in PHP, Laravel, and MySQL.
+- 🔭 Experienced in building and maintaining web applications, from database design to API development and system integration.
+- 🧠 Focused on problem-solving, performance optimization, and writing clean, maintainable code that scales.
+- 🚀 Always eager to learn new technologies and contribute to impactful projects.
 
 ---
 
